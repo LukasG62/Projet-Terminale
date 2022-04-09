@@ -1,3 +1,7 @@
+#
+# Ensemble de structure de données crée en autonomie pour faciliter leur utilisation dans l'enseignement "Numérique et sciences informatiques"
+# Cependant ce projet n'est pas terminé, il manque certaines méthodes pour les arbres binaires de recherche.
+#
 
 class StackError(Exception):
     #Classe representant une erreur de pile héritant de la super classe python "Exception"
