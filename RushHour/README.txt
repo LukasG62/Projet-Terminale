@@ -1,0 +1,2 @@
+Implémentation du jeu du RushHour en python paradigme objet réalisé lors d'un projet dans mon enseignement de spécialité "Numérique et sciences informatiques". J'ai été plus loin dans les attentes demandées en implémentant
+un système pour générer des niveaux et les récupérer depuis un répertoire.

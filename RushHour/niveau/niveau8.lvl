@@ -1,0 +1,13 @@
+#niveau8
+A,rouge,2,1,H,2
+B,vert,2,4,V,2
+C,jaune,0,2,H,3
+D,violet,3,5,V,2
+E,bleu,4,3,H,2
+F,orange,1,5,V,2
+G,cyan,1,3,V,3
+H,rose,3,0,H,2
+I,marron,0,0,V,3
+J,noir,5,0,H,3
+K,blanc,5,3,H,2
+#

@@ -1,0 +1,12 @@
+#niveau 0
+A,rouge,2,0,H,2
+B,jaune,0,0,H,2
+C,bleu,0,2,H,2
+D,vert,1,0,H,3
+E,cyan,3,1,V,3
+F,violet,2,2,V,2
+G,orange,4,2,V,2
+H,gris,2,3,V,3
+I,noir,1,4,V,2
+J,blanc,0,5,V,3
+#niveau plutôt simple

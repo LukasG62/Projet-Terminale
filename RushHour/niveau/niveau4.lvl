@@ -1,0 +1,12 @@
+#niveau 4
+A,rouge,2,0,H,2
+B,jaune,1,1,H,3
+C,vert,0,1,H,2
+D,violet,2,2,V,2
+E,bleu,2,3,V,2
+F,gris,3,1,V,2
+G,jaune,5,0,H,2
+H,violet,4,2,V,2
+I,blanc,0,4,V,2
+J,noir,1,5,V,2
+#

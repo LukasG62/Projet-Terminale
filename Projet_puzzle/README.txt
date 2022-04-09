@@ -1,0 +1,1 @@
+Implémentation d'un jeu de puzzle avec résolution automatisé en python paradigme orienté objet dans le cadre de l'enseignement de spécialité "Numérique et sciences informatiques"
